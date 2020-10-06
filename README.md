@@ -1,4 +1,6 @@
-# 2020-10-06-git-melissa
+# GIT Basics
+
+## Local
 
 - `git init`: create git repository in current folder.
 	- you only do this one per repository.
