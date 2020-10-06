@@ -10,3 +10,5 @@
 - `git commit`: when saving to the master or main branch, 
 		you write what changes you did in order for
 	        others to follow. The file merges into master or main.
+- `git log`: show you your log history
+	- `git log --oneline`: one line version of your history.
