@@ -22,7 +22,7 @@
 - `git checkout <HASH>`: go to location
 - `git checkout master`: go back to master
 
-##Remotes
+## Remotes
 
 - `git remote add origin <URL>`: adds the url with the name "origin"
 
