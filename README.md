@@ -16,5 +16,17 @@
 
 - `git diff`: will show you the differences
 	- `git diff --staged`: show you the differences between stages.
+	- `git diff HEAD~2`: diff 2 places back from HEAD
+	- `git diff <HASH>`: diff 2 locations
+- `git checkout <HASH> <FILE>`: revert file
+- `git checkout <HASH>`: go to location
+- `git checkout master`: go back to master
+
+##Remotes
+
+- `git remote add origin <URL>`: adds the url with the name "origin"
+
+- `git push origin master`: sends master branch on local computer 
+- `git pull origin master`: updates local with remote (master)
 - lets delete this last input cuz its not important and we are learning 
 	how to revert things
